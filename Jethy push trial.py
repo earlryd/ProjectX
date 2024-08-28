@@ -31,3 +31,9 @@ mao ra to
 commit ko ni 
 
 heheh
+
+
+erase
+
+
+
