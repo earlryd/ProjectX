@@ -1,39 +1,31 @@
-Hi errr this is me jethy !!!!!!! 
+# Hi errr this is me jethy !!!!!!! 
 
-try try trial hehehehhe
+# try try trial hehehehhe
 
-no git bash huhuhuhuhu
+# no git bash huhuhuhuhu
 
-ownfwefnkewfnw'fn
+# ownfwefnkewfnw'fn
 
-hehehe
- hi 
+# hehehe
+#  hi 
  
  
  
  
  
  
-ABCD
+# ABCD
 
-EFG
+# EFG
 
-HIJK
-
-
-
-QRST
-
-HEHEHE
-
-mao ra to 
-
-commit ko ni 
-
-heheh
+# HIJK
 
 
-erase
+
+# QRST
+
+# HEHEHE
+
 
 
 
